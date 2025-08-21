@@ -4,3 +4,4 @@ plotly
 pandas 
 seaborn 
 matplotlib
+plotly.express
